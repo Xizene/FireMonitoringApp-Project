@@ -52,9 +52,10 @@ Project ini mengharapkan struktur data berikut di Firebase:
 ```
 
 ## ✒️ Author
-**[Nama Anda]**
-- Mahasiswa Teknik Informatika
-- Project Tugas Akhir / Mata Kuliah Pemrograman Mobile
+**Arif Kurniawan**
+- Mahasiswa Teknologi Informasi
+- Universitas Muhammadiyah Sumatera Utara
+- Project Tugas Akhir / Skripsi
 
 ---
 *Dibuat dengan ❤️ untuk keselamatan bersama.*
