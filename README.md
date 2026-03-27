@@ -2,6 +2,11 @@
 
 Aplikasi monitoring kebakaran berbasis Android yang terintegrasi dengan **Firebase Realtime Database**. Aplikasi ini dirancang untuk memberikan peringatan dini jika terdeteksi suhu ekstrem atau indikasi kebakaran melalui sensor yang terhubung ke Firebase.
 
+## 📥 Download Aplikasi
+Anda dapat mengunduh file instalasi terbaru langsung dari halaman **Releases**:
+- **[👉 Klik di sini untuk mengunduh APK (Lihat bagian Assets)](https://github.com/ArifKurniawan/FireMonitoringApp/releases)**
+*(Silakan cari file bernama `app-debug.apk` atau `FireMonitoring.apk` di bagian Assets paling bawah halaman tersebut)*
+
 ## 🚀 Fitur Utama
 
 - **Real-time Monitoring**: Memantau suhu secara langsung dari database Firebase.
@@ -27,7 +32,7 @@ Untuk menjalankan project ini secara lokal, pastikan Anda memiliki:
 ### Langkah Instalasi:
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username-anda/FireMonitoringApp.git
+   git clone https://github.com/ArifKurniawan/FireMonitoringApp.git
    ```
 2. Buka project di Android Studio.
 3. Masukkan file `google-services.json` ke folder `app/`.
